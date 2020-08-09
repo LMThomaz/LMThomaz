@@ -1,4 +1,4 @@
-<p align='center'><img width='360' src="https://github.com/LMThomaz/LMThomaz/blob/master/octocat.png"/></p>
+<p align='center'><img width='360' src="https://github.com/LMThomaz/LMThomaz/blob/master/.github/octocatThom.png"/></p>
 
 ## From: My family of Hello World! :speech_balloon:   
 ### My name is Leonardo Thomaz:bookmark:     
