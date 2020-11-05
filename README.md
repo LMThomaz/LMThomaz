@@ -2,9 +2,9 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning everything and more 🤣
+- 👯 I’m looking to perfect my skills
+- 🥅 2020 Goals: Complete bachelor for "Sistemas de Informação"
 - ⚡ Fun fact: I love to run and play games
 
 ### Spotify Playing 🎧
