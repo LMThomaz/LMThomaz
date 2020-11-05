@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https:now-playing-thomaz2.vercel.app/now-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/thomaz2)
+[<img src="https://now-playing-thomaz2.vercel.app/now-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/thomaz2)
 
 ### Connect with me:
 
