@@ -2,10 +2,9 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning everything and more 🤣
-- 👯 I’m looking to perfect my skills
-- 🥅 2020 Goals: Complete bachelor for "Sistemas de Informação"
-- ⚡ Fun fact: I love to run and play games
+- 🌱 I’m currently learning more about React, C# (Razor) and web accessibility
+- 🥅 2021 Goals: Complete certification in "JavaScript"
+- ⚡ Fun fact: I love to run, play games and read books
 
 ### Spotify Playing 🎧
 
