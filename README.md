@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Thomaz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Thomaz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LMThomaz)](https://github.com/LMThomaz)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-thomaz/)](https://www.linkedin.com/in/leonardo-thomaz/)
 
 <br />
 
@@ -35,6 +35,3 @@
 
 <br />
 <br />
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LMThomaz)](https://github.com/LMThomaz)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-thomaz/)](https://www.linkedin.com/in/leonardo-thomaz/)
