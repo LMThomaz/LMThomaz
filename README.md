@@ -6,10 +6,6 @@
 - 🥅 2021 Goals: Complete certification in "JavaScript"
 - ⚡ Fun fact: I love to run, play games and read books
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-thomaz2.vercel.app/now-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/thomaz2)
-
 ### Connect with me:
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/LMThomaz)](https://github.com/LMThomaz)
