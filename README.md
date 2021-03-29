@@ -1,8 +1,8 @@
-### Hi there, I'm Thomaz 👋
+## Hey there 👋
 
-## I'm a Developer!!
+### I'm Leonardo Matheus Thomaz 👨‍🚀!! I'm a developer websites, mobile apps and APIs.
 
-- 🌱 I’m currently learning more about React, C# (Razor) and web accessibility
+- 🌱 I’m currently learning more about React.js, Next.js and web accessibility
 - 🥅 2021 Goals: Complete certification in "JavaScript"
 - ⚡ Fun fact: I love to run, play games and read books
 
