@@ -2,7 +2,7 @@
 
 ### I'm Leonardo Matheus Thomaz 👨‍🚀!! I'm a developer websites, mobile apps and APIs.
 
-- 🌱 I’m currently learning more about React.js, Next.js and web accessibility
+- 🌱 I’m currently learning more about english and digital art.
 - 🥅 2021 Goals: Live coding in Twitch
 - ⚡ Fun fact: I love to run, play games and read books
 
