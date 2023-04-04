@@ -25,7 +25,7 @@
 
 ## Tech Stack 💻
 
-#### Languages
+#### "Languages"
 
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -43,7 +43,6 @@
 
 #### CSS Framework/Library/Pre-processors
 
-![Chakra](https://img.shields.io/badge/chakra-000.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-000?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -54,7 +53,6 @@
 
 #### Database/State
 
-![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&logoColor=white)
@@ -71,19 +69,3 @@
 
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## Current GitHub Stats 📊
-
-![](https://github-readme-stats.vercel.app/api?username=LMThomaz&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LMThomaz&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching
-
----
-
-## GitHub Streaks 🔥
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=LMThomaz&theme=dracula&hide_border=false)<br/>
