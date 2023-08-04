@@ -66,7 +66,7 @@
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&logoColor=white)
-![Fastify](![Fastify](https://img.shields.io/badge/fastify-000.svg?style=for-the-badge&logo=fastify&logoColor=white))
+![Fastify](https://img.shields.io/badge/fastify-000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=for-the-badge&logo=graphql&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-000.svg?style=for-the-badge&logo=docker&logoColor=white)
