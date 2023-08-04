@@ -32,7 +32,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-000.svg?style=for-the-badge&logo=dart&logoColor=white)
 
@@ -67,8 +66,6 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=for-the-badge&logo=graphql&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-000.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Web Hosting
