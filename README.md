@@ -25,26 +25,14 @@
 
 ## Tech Stack 💻
 
-
-#### "Languages"
-
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-000.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-000.svg?style=for-the-badge&logo=dart&logoColor=white)
-
 #### JS Framework/Library
 
-![Expo](https://img.shields.io/badge/expo-000?style=for-the-badge&logo=expo)
-![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-000.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### CSS Framework/Library/Pre-processors
 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-000?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Material UI](https://img.shields.io/badge/mui-000.svg?style=for-the-badge&logo=mui&logoColor=white)
