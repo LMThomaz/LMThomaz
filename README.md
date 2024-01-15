@@ -37,7 +37,6 @@
 
 #### JS Framework/Library
 
-![React Native](https://img.shields.io/badge/react_native-000.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-000?style=for-the-badge&logo=expo)
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react&logoColor=white)
